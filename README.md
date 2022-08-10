@@ -22,3 +22,8 @@ Sou casada, adoro pescar, viajar, ler, assistir a bons filmes.
 
 
 - 🤔 Estou procurando um estágio, para iniciar meu desevolvimento prático na área de tecnologia.
+
+<div>
+<img height="180cm" src="https://github-readme-stats.vercel.app/api?username=elisangelaeleuterio&show_icons-true&theme=dracula&include-all-commits=true&count_private=true"/>
+<img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elisangelaeleuterio&layout_-compact&langs_count-16&theme-dracula"/>
+  </div>
