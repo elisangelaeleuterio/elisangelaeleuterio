@@ -1,16 +1,24 @@
-### Hi there 👋
+Olá, me chamo Elisangela Eleutério 👋
 
-<!--
-**elisangelaeleuterio/Elisangelaeleuterio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🤷‍♂️ Sobre mim:
 
-Here are some ideas to get you started:
+Sou natural de São Paulo, Capital, moro em Joinville/SC a 13 anos, tenho um filho ja formado.
+Sou casada, adoro pescar, viajar, ler, assistir a bons filmes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Atualmente sou Analista Financeiro (Autônomo), na empresa Santech Instalação e Manunteção de TV a Cabo desde 2017.
+- 🌱 Faço o curso de Gestao da Tecnologia da Informação - Distância - Uninter
+- 👩‍🎓 Sou formada em Gestão da Produção Industrial e tenho MBA em Controladoria e Finanças, ambos pela Uninter
+- 📫 eeslec73@gmail.com
+- 📞 (47)99213-2031
+
+- 👯 Recentemente participei do Bootcamp Santander Code Girl, em parceria com a Digital Innovation, com os seguintes temas:
+✔ Introdução a Programação e Pensamento Computacional;
+✔ Intridução ao Git e ao GitHub;
+✔ Criação de Repositório no GitHub;
+✔ Dominando IDES Java (Intellij/Eclipse)
+✔ Orientação a Objetos
+✔ Introdução Spring Framework
+
+
+
+- 🤔 Estou procurando um estágio, para iniciar meu desevolvimento prático na área de tecnologia.
