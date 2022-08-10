@@ -28,6 +28,4 @@ Sou casada, adoro pescar, viajar, ler, assistir a bons filmes.
 <img height="150cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elisangelaeleuterio&layout=compact&langs_count-16&theme=dracula"/>
   </div>
 
-<div>
-
-  </div>
+![Snake animation](https://github.com/elisangelaeleuterio/Elisangelaeleuterio/blob/output/github-contribution-grid-snake.svg)
