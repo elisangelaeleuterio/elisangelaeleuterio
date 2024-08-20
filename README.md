@@ -2,7 +2,7 @@ Olá, me chamo Elisangela Eleutério 👋
 
 🤷‍♂️ Sobre mim:
 
-Sou natural de São Paulo, Capital, moro em Joinville/SC a 13 anos, tenho um filho ja formado.
+Sou natural de São Paulo, Capital, moro em Joinville/SC a 15 anos, tenho um filho ja formado.
 Sou casada, adoro pescar, viajar, ler, assistir a bons filmes.
 
 - 🔭 Atualmente sou Analista Financeiro (Autônomo), na empresa Santech Instalação e Manunteção de TV a Cabo desde 2017.
